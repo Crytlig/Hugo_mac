@@ -6,6 +6,7 @@ draft: true
 
 # Getting Started
 If you haven't already downloaded and installed Docker, you can get it using the following commands or visit [Docker.com](https://www.docker.com/)
+<!--more-->
 
 **Installing on Mac with homebrew** <br>
 ```
