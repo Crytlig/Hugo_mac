@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "GeekBlog"
+title = "My learning journey"
 theme = "hugo-geekblog"
 
 # Geekblog required configuration
